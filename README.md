@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mahfouz&show_icons=true&locale=en&hide=stars" alt="Mohammed-Mahfouz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadbakeel&" alt="Mohammed-Mahfouz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Mahfouz&" alt="Mohammed-Mahfouz" /></p>
