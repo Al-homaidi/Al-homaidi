@@ -8,13 +8,13 @@
   </p>
 
   <p align="center">
-    <a href="https://portfolio-mohammed-mahfouzs-projects.vercel.app/">
+    <a href="https://portfolio-mohammed-mahfouzs-projects.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/mohammed-mahfouz-al-homaidi-1876b631b/">
+    <a href="https://www.linkedin.com/in/mohammed-mahfouz-al-homaidi-1876b631b/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:alhomaidi505@gmail.com">
+    <a href="mailto:alhomaidi505@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -37,9 +37,14 @@ I am a versatile **Front-End Engineer** based in **Saudi Arabia** 🇸🇦, crea
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="Core Skills" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap&theme=dark" alt="Frameworks" />
+  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,mui&theme=dark" alt="Frameworks" />
+  <br/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/Syncfusion-E34F26?style=for-the-badge&logo=syncfusion&logoColor=white" alt="Syncfusion" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" alt="Tools" />
+  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,socket&theme=dark" alt="Tools" />
 </div>
 
 ---
@@ -47,28 +52,16 @@ I am a versatile **Front-End Engineer** based in **Saudi Arabia** 🇸🇦, crea
 ### 📊 Coding Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Al-homaidi&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Al-homaidi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Mohammed's Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-homaidi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Al-homaidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Mohammed's Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-homaidi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <blockquote>
-    <i>"Simplicity is the soul of efficiency."</i>
-  </blockquote>
-  
-  <br />
-  
   <img src="https://komarev.com/ghpvc/?username=Al-homaidi&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
 </div>
