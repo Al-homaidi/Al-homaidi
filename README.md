@@ -46,22 +46,3 @@ I am a versatile **Front-End Engineer** based in **Saudi Arabia** 🇸🇦, crea
   
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,socket&theme=dark" alt="Tools" />
 </div>
-
----
-
-### 📊 Coding Activity & Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Al-homaidi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Mohammed's Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-homaidi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Al-homaidi&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
-</div>
